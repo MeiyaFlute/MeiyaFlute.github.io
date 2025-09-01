@@ -1,4 +1,8 @@
-System.register("chunks:///_virtual/gamepanel",[],(function(){return{execute:function(){}}}));
+System.register("chunks:///_virtual/gamepanel", [], function () {
+  return {
+    execute: function () {}
+  };
+});
 
 (function(r) {
   r('virtual:///prerequisite-imports/gamepanel', 'chunks:///_virtual/gamepanel'); 
